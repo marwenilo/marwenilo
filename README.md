@@ -82,9 +82,38 @@
 
 </br>
 </br>
+<h3 align="center">Connect with me</h3>
 
-![snake gif](https://github.com/marwenilo/marwenilo/blob/output/github-contribution-grid-snake.svg)&nbsp;
+<div style="margin-top:10px" align="center">
+  <div>
+ 
+  
+ 
+  </div>
+  <div>
+    <a  href="https://www.linkedin.com/in/marwen-magri-405765148/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a  href="https://www.facebook.com/marwen.magrii/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
+    </a>
+      <a  href="https://www.instagram.com/marwen_magri" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+    </a>
+  </div>
+</div>
 
+<!--- ![snake gif](https://github.com/marwenilo/marwenilo/blob/output/github-contribution-grid-snake.svg)&nbsp;
+--->
+<p align="center">
+  <img  src="https://github.com/marwenilo/marwenilo/blob/output/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+Credit: [marwenilo](https://github.com/marwenilo)
+
+Last Edited on: 22/07/2022
 </br>
 <!---
 ## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
