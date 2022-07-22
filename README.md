@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+ilo;Front+end+js+developer...;React+Js+Enthusiast...;Photographer+Gamer...;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+ilo;Front-end+js+developer...;Reactjs+Enthusiast...;Photographer+and+Gamer...;"/>
  
  <p>- <i>A Creative React Developer, Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization. Detail-oriented, organized. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.</i></p>
 
@@ -74,7 +74,9 @@
 
 </br>
 </br>
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/marwenilo/marwenilo/blob/output/github-contribution-grid-snake.svg)&nbsp;
+
 </br>
 ## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
 
