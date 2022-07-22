@@ -16,7 +16,7 @@
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Next js.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...marwenmagrii@gmail.com.
+- 📫 How to reach me marwenmagrii@gmail.com.
 
 <hr>
 
