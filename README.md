@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+ilo;Front-end+js+developer...;Reactjs+Enthusiast...;Photographer+and+Gamer...;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=25&center=false&lines=hey!+its+ilo;Front-end+js+developer...;Reactjs+Enthusiast...;Photographer+and+Gamer...;"/>
  
  <p>- <i>A Creative React Developer, Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization. Detail-oriented, organized. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.</i></p>
 
