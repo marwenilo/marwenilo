@@ -86,7 +86,8 @@
 ![snake gif](https://github.com/marwenilo/marwenilo/blob/output/github-contribution-grid-snake.svg)&nbsp;
 
 </br>
-<--!## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
+<!---
+## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
 
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
 
@@ -96,7 +97,7 @@
 
 </br>
 
---!>
+--->
  
  
  </br>
