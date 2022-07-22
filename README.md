@@ -63,15 +63,13 @@
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
      
 </td>
-    <td>
-  </br>
- </br>
+  
+   <td>
+
  
  ##  📄📜 Stats
 
 
-
- </br>
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=marwenilo&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
